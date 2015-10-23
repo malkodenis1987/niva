@@ -1,0 +1,14 @@
+# Ignored Folders #
+################
+/.idea/*
+/media/*
+/downloader/*
+/var/*
+# Ignored Files #
+################
+/app/etc/local.xml
+/wp/wp-config.php
+robots.txt
+/.htaccess
+desktop.ini
+/node_modules/*
