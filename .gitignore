@@ -4,10 +4,11 @@
 /media/*
 /downloader/*
 /var/*
+/dev/*
 # Ignored Files #
 ################
 /app/etc/local.xml
-/wp/wp-config.php
+wp-config.php
 robots.txt
 /.htaccess
 desktop.ini
